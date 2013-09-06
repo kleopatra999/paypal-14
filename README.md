@@ -1,7 +1,7 @@
 paypal
 ======
 
-SDK to communicate with PayPal SOAP Web service
+SDK to communicate with PayPal SOAP Web service - PayPal SOAP API 
 
 Official reference guide on https://developer.paypal.com/webapps/developer/docs/classic/api/
 
